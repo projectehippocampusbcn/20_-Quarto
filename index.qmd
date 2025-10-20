@@ -1,0 +1,27 @@
+---
+title: "20_ Quarto"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+::: panel-tabset
+## Visita
+
+## Especial
+
+```{r, echo = FALSE , warning =FALSE ,  message =FALSE}
+library(leaflet)
+
+library(tidyverse)
+
+m <- leaflet() %>% 
+
+  setView(lng=0.42, lat=42.41 , zoom=10) %>% 
+
+            addTiles()
+
+m
+```
+:::
