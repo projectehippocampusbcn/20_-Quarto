@@ -1,5 +1,8 @@
 project:
   type: website
+output:
+  html:
+    dir: _site
 
 website:
   title: "20_ Quarto"
