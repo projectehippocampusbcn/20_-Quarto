@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "20_ Quarto",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nVisitaEspecial"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
@@ -12,12 +12,5 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "localitzacio.html",
-    "href": "localitzacio.html",
-    "title": "Localitzacio",
-    "section": "",
-    "text": "Sobre aquet lloc\n\n1 + 1\n\n[1] 2"
   }
 ]

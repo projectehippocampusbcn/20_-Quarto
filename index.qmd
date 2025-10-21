@@ -6,11 +6,6 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-::: panel-tabset
-## Visita
-
-## Especial
-
 ```{r, echo = FALSE , warning =FALSE ,  message =FALSE}
 library(leaflet)
 
@@ -24,4 +19,3 @@ m <- leaflet() %>%
 
 m
 ```
-:::

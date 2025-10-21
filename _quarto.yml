@@ -1,8 +1,5 @@
 project:
   type: website
-output:
-  html:
-    dir: _site
 
 website:
   title: "20_ Quarto"
@@ -19,4 +16,8 @@ format:
     toc: true
 
 editor: visual
+
+output:
+  html:
+    dir: docs
 
